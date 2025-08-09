@@ -9,8 +9,8 @@
 ---
 
 ### About Me ❀
-Hi! I’m Ruth 🤍 — a fast learner, natural supporter, and always ready to dive into new tech adventures.  
-I may not write the most complex code (yet 😉), but I’m your go-to teammate for ideas, encouragement, and getting things done.  
+Hi! I’m Ruth, a fast learner, natural supporter, and always ready to dive into new tech adventures.  
+I may not write the most complex code (yet), but I’m your go-to teammate for ideas, encouragement, and getting things done.
 
 ---
 
@@ -43,11 +43,11 @@ I may not write the most complex code (yet 😉), but I’m your go-to teammate 
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruthmayregino&show_icons=true&bg_color=ffb6c1&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Ruth's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruthmayregino&show_icons=true&bg_color=ffb6c1&title_color=000000&text_color=000000&icon_color=ffffff&hide_border=true" alt="Ruth's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthmayregino&layout=compact&bg_color=ffb6c1&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthmayregino&layout=compact&bg_color=ffb6c1&title_color=000000&text_color=000000&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
