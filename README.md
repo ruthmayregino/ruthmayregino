@@ -20,14 +20,14 @@ I may not write the most complex code (yet 😉), but I’m your go-to teammate 
 
 ---
 
-### 🎯 Goals
+###  Goals
 - ❤︎ Continue building small projects
 - ❤︎ Collaborate with other beginner-friendly repos
 
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 ![Python](https://img.shields.io/badge/-Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-ffb6c1?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
