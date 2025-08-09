@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="wait lang" alt="Ruth's Banner" width="100%">
+  <img src="https://github.com/ruthmayregino/ruthmayregino/blob/main/rutmei.gif" alt="Ruth's Banner" width="100%">
 </p>
 
 <!-- Title -->
