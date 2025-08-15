@@ -9,7 +9,8 @@
 ---
 
 ### About Me ❀
-Hi! I’m Ruth, an aspiring Project Manager who thrives in organizing tasks and ensuring projects move forward with clarity and purpose.
+Hi! I’m Ruth, an aspiring Project Manager who thrives in organizing tasks and ensuring projects move forward with clarity and purpose. 
+Guided by faith and purpose, I believe every experience shapes us for something greater.
 With experience in government work like file archiving, transcription, and administrative assistance, I’ve learned the value of organization, adaptability, and teamwork.
 I’m a fast learner, always eager to pick up new skills, and passionate about helping ideas turn into results.
 
