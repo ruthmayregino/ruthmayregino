@@ -9,37 +9,25 @@
 ---
 
 ### About Me ❀
-Hi! I’m Ruth, a fast learner, natural supporter, and always ready to dive into new tech adventures.  
-I may not write the most complex code (yet), but I’m your go-to teammate for ideas, encouragement, and getting things done.
+Hi! I’m Ruth, an aspiring Project Manager who thrives in organizing tasks and ensuring projects move forward with clarity and purpose.
+With experience in government work like file archiving, transcription, and administrative assistance, I’ve learned the value of organization, adaptability, and teamwork.
+I’m a fast learner, always eager to pick up new skills, and passionate about helping ideas turn into results.
 
 ---
-
-### Currently Learning
-- Improving my **frontend design** skills with HTML & CSS
-- Exploring **Figma** for UI/UX
-
----
-
 ###  Goals
-- ❤︎ Continue building small projects
-- ❤︎ Collaborate with other beginner-friendly repos
+- ❤︎ Earn a Microsoft Certified Expert badge to strengthen my technical and professional credentials.
+- ❤︎ Build a fulfilling career in the government sector.
+- ❤︎ Become a valuable asset to society through meaningful work and service.
 
+---
+
+### Achievements
+- **Civil Service Exam Passer** — Professional Level  
 
 ---
 
-###  Tech Stack
-![Python](https://img.shields.io/badge/-Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-ffb6c1?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-ffb6c1?style=for-the-badge&logo=css3&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-ffb6c1?style=for-the-badge&logo=laravel&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-ffb6c1?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-ffb6c1?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-ffb6c1?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-ffb6c1?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-ffb6c1?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-
 ---
+
 
 ### GitHub Stats
 <p align="center">
