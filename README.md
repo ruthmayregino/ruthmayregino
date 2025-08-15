@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/ruthmayregino/ruthmayregino/blob/main/rutmei.gif" alt="Ruth's Banner" width="100%">
+  <img src="https://github.com/ruthmayregino/ruthmayregino/blob/main/Banner.gif" width="70%">
 </p>
 
 <!-- Title -->
@@ -14,6 +14,7 @@ With experience in government work like file archiving, transcription, and admin
 I’m a fast learner, always eager to pick up new skills, and passionate about helping ideas turn into results.
 
 ---
+
 ###  Goals
 - ❤︎ Earn a Microsoft Certified Expert badge to strengthen my technical and professional credentials.
 - ❤︎ Build a fulfilling career in the government sector.
@@ -26,20 +27,26 @@ I’m a fast learner, always eager to pick up new skills, and passionate about h
 
 ---
 
----
+### Interest
+- Travelling
+- Driving (MT and AT)
+- Crafting and DIY Projects
+- Coffee
 
+---
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruthmayregino&show_icons=true&bg_color=ffb6c1&title_color=000000&text_color=000000&icon_color=ffffff&hide_border=true" alt="Ruth's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruthmayregino&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true" alt="Ruth's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthmayregino&layout=compact&bg_color=ffb6c1&title_color=000000&text_color=000000&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthmayregino&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### Let’s Connect
-[![Facebook](https://img.shields.io/badge/-Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ruthmayyyy)
-[![Instagram](https://img.shields.io/badge/-Instagram-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rutmei)
+[![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ruthmayyyy)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rutmei)
+
