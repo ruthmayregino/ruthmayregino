@@ -17,9 +17,8 @@ I’m a fast learner, always eager to pick up new skills, and passionate about h
 ---
 
 ###  Goals
-- ❤︎ Earn a Microsoft Certified Expert badge to strengthen my technical and professional credentials.
-- ❤︎ Build a fulfilling career in the government sector.
-- ❤︎ Become a valuable asset to society through meaningful work and service.
+-  Earn a Microsoft Certified Expert badge to strengthen my technical and professional credentials.
+-  Build a fulfilling career in the government sector.
 
 ---
 
